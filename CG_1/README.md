@@ -3,7 +3,8 @@
 
 Для реализации был использован язые `C#` с использованием Windows Forms.
 
-![Screenshot 1](Screenshot_1.png)
+![Screenshot 1](form.png)
+![Screenshot 2](form1.png)
 
 ## Руководство
 
