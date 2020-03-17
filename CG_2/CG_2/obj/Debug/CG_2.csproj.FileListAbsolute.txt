@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CG_2\CG_2\bin\Debug\CG_2.exe.config
+C:\Users\User\source\repos\CG_2\CG_2\bin\Debug\CG_2.exe
+C:\Users\User\source\repos\CG_2\CG_2\bin\Debug\CG_2.pdb
+C:\Users\User\source\repos\CG_2\CG_2\obj\Debug\CG_2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CG_2\CG_2\obj\Debug\CG_2.Form1.resources
+C:\Users\User\source\repos\CG_2\CG_2\obj\Debug\CG_2.Properties.Resources.resources
+C:\Users\User\source\repos\CG_2\CG_2\obj\Debug\CG_2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CG_2\CG_2\obj\Debug\CG_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CG_2\CG_2\obj\Debug\CG_2.exe
+C:\Users\User\source\repos\CG_2\CG_2\obj\Debug\CG_2.pdb
+C:\Users\User\source\repos\CG_2\CG_2\bin\Debug\ImageFormats.dll
+C:\Users\User\source\repos\CG_2\CG_2\obj\Debug\CG_2.csproj.CopyComplete
