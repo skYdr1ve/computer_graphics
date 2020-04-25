@@ -33,7 +33,7 @@
 ![Screenshot 4](Screens/Screenshot_4.png)
 ![Screenshot 5](Screens/Screenshot_5.png)
 
-## Пример испоьзования
+## Пример использования
 
 Файл для отсечения отрезков:
 ```
